@@ -1,8 +1,8 @@
 
 
 <!-- badges: start -->
-[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/judsl/jhur?style=social)](https://github.com/judsl/jhur/releases/tag/v1.1.0)
+[![Lifecycle: superseded](https://lifecycle.r-lib.org/articles/figures/lifecycle-superseded.svg)](https://lifecycle.r-lib.org/articles/stages.html#superseded)
+<!-- [![GitHub release (latest by date)](https://img.shields.io/github/v/release/judsl/jhur?style=social)](https://github.com/judsl/jhur/releases/tag/v1.1.0)-->
 <!-- badges: end -->
 
 
