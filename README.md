@@ -10,7 +10,7 @@
 # jhur Package:
 
 The goal of `jhur` is to provide accompanying functions for the
-Introduction to R class at Johns Hopkins. We have moved away from this in teaching the course, as we found it was better for students to practice importing data. 
+Introduction to R class at Johns Hopkins. We have moved away from this in teaching the course, as we found it was better for students to practice importing data via URL. 
 
 ## Installation
 
